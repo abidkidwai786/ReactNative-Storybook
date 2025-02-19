@@ -7,7 +7,7 @@ This template ships with the main React Native and Storybook configuration files
 ## 🚅 Quick start
 
 1.  **Clone the repo**
-
+    git clone https://github.com/abidkidwai786/ReactNative-Storybook
     ```
 
 1.  **Install the dependencies.**
@@ -22,7 +22,7 @@ This template ships with the main React Native and Storybook configuration files
 
 1.  **Open the source code and start editing!**
 
-    Open the `taskbox` directory in your code editor of choice and building your first component!
+    Open the project in your code editor of choice and building your first component!
 
 1.  **Browse your stories!**
 
