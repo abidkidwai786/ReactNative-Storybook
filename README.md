@@ -1,33 +1,20 @@
-<p align="center">
-  <a href="https://www.chromatic.com/">
-    <img alt="Chromatic" src="https://avatars2.githubusercontent.com/u/24584319?s=200&v=4" width="60" />
-  </a>
-</p>
-
-<h1 align="center">
-  Chromatic's Intro to Storybook React Native template
-</h1>
+DOCUMENTS FOR REFERENCE:
+https://docs.expo.dev/build/setup/#build-for-android-emulatordevice-or-ios-simulator
+https://docs.expo.dev/build-reference/apk/
 
 This template ships with the main React Native and Storybook configuration files you'll need to get up and running fast.
 
 ## 🚅 Quick start
 
-1.  **Create the application.**
+1.  **Clone the repo**
 
-    Use [degit](https://github.com/Rich-Harris/degit) to get this template.
-
-    ```shell
-    # Clone the template
-    npx degit chromaui/intro-storybook-react-native-template#main taskbox
     ```
 
 1.  **Install the dependencies.**
 
-    Navigate into your new site’s directory and install the necessary dependencies.
+    Install the necessary dependencies.
 
     ```shell
-    # Navigate to the directory
-    cd taskbox/
 
     # Install the dependencies
     yarn
@@ -39,7 +26,8 @@ This template ships with the main React Native and Storybook configuration files
 
 1.  **Browse your stories!**
 
-    Run `yarn storybook:ios` for ios or `yarn storybook:android` for android to see your component's stories on your emulator or device.
+    Open the document https://docs.expo.dev/build/setup/#build-for-android-emulatordevice-or-ios-simulator and follow the steps to create EAS build.
+    Open the document https://docs.expo.dev/build-reference/apk/ and follow the steps to create apk file.
 
 ## 🔎 What's inside?
 
