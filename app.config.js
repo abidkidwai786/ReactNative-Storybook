@@ -2,10 +2,18 @@ export default ({ config }) => ({
   ...config,
   name: "Storybook Tutorial Template",
   slug: "storybook-tutorial-template",
+  owner: "abidki_786",
   extra: {
     storybookEnabled: process.env.STORYBOOK_ENABLED,
     eas: {
-      projectId: "1f0642a8-73f6-4bf1-9b22-e4a97d96345f",
+      projectId: "f895726a-7e4a-4163-853a-a7978858b068",
     },
+  },
+  android: {
+    package: "com.lambdatest.yourapp",
+    versionCode: 1,
+  },
+  ios: {
+    bundleIdentifier: "com.lambdatest.yourapp",
   },
 });
